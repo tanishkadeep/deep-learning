@@ -1,0 +1,1 @@
+Develop a convolutional neural network (CNN) model to classify handwritten digits using the MNIST dataset. The goal is to train a model that accurately identifies digits (0-9) from images
